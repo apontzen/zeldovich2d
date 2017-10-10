@@ -4,13 +4,12 @@ Usage:
  import zeldovich2d
  zeldovich2d.demo()
 
-Prerequisites - py2.7/3.4+, numpy, scipy, pylab pynbody
+Prerequisites - py2.7/3.4+, numpy, pylab pynbody
 
 Use pip install git+https://github.com/pynbody/pynbody.git to get pynbody
 """
 
 import numpy as np
-import scipy.stats
 import pynbody
 import pylab as p
 
